@@ -1,6 +1,6 @@
 torque adv
 
-OGG sound = false
+OGG_sound = false
 
 load_all = true
 
